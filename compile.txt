@@ -1,5 +1,8 @@
 Cara compile / run game
 
+Buka command prompt di folder src
+
+lalu ketik command berikut:
 javac -cp lib/forms_rt.jar; model/*.java
 javac -cp lib/forms_rt.jar; view/*.java
 javac -cp lib/forms_rt.jar; viewmodel/*.java
